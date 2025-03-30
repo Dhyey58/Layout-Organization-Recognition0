@@ -89,29 +89,6 @@ The project uses a U-Net architecture with the following features:
 - Matplotlib
 - scikit-learn
 
-## Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Dhyey58/Layout-Organization-Recognition0.git
-cd Layout-Organization-Recognition0
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Train the model:
-```python
-python train.py
-```
-
-4. Evaluate the model:
-```python
-python evaluate.py
-```
-
 ## Model Performance
 
 The model's performance is evaluated using two key metrics:
