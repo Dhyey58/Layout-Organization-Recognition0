@@ -9,6 +9,18 @@ The project focuses on the following tasks:
 - Semantic segmentation of manuscript regions
 - Training a U-Net model for pixel-wise classification
 
+## Download Required Files
+
+1. **Dataset**
+   - Download the dataset from: [Dhyey56/dataset](https://huggingface.co/datasets/Dhyey56/dataset/tree/main)
+   - Extract the downloaded zip file to the project root directory
+   - The dataset should be named as `dataset` 
+
+2. **Pre-trained Model**
+   - Download the pre-trained model from: [[Model Link]](https://huggingface.co/Dhyey56/final_unet_trained/tree/main)
+   - Place the downloaded `.pth` file in the project root directory
+   - The model file should be named `final_unet_trained.pth`
+
 ## Dataset Structure
 
 The dataset is organized as follows:
